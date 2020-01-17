@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSV-Manipulator-Server", "CSV-Manipulator-Server\CSV-Manipulator-Server.csproj", "{68D9DEA9-C363-4E2C-8F34-18551C6F9074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68D9DEA9-C363-4E2C-8F34-18551C6F9074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D9DEA9-C363-4E2C-8F34-18551C6F9074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D9DEA9-C363-4E2C-8F34-18551C6F9074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D9DEA9-C363-4E2C-8F34-18551C6F9074}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD39FF05-8F27-4072-983D-94D39C4BD342}
+	EndGlobalSection
+EndGlobal
