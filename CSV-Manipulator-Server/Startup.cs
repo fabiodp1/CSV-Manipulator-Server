@@ -40,6 +40,8 @@ namespace CSV_Manipulator_Server
 				app.UseHsts();
 			}
 			app.UseHttpsRedirection();
+			// Using UseDefaultFiles with UseStaticFiles to serve the client app instead of Razor Pages
+			app.UseDefaultFiles();
 			app.UseStaticFiles();
 
 			app.UseRouting();
